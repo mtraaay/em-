@@ -1,0 +1,13 @@
+ChatGPT said:
+Here’s how you can set up Autodesk with Google Authenticator for two-step verification:
+
+1. Sign in to Autodesk Account
+Go to Autodesk Account and log in with your Autodesk ID (email + password).
+
+2. Go to Security Settings
+Click on your profile picture (top right) → Account Settings.
+
+In the left menu, choose Security Settings or Security.
+
+Look for Two-Step Verification.
+
